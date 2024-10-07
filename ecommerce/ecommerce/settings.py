@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-f9%fxuj-ur%@ps-*gj5c4j1s4w!!g*yfxmt8%0w7)p1!3x4-(a
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['e-comm-402.onrender.com']
 # Gmail Settings
 EMAIL_HOST='smtp.gmail.com'
 EMAIL_HOST_USER='dipali.patil@itvedant.com'
